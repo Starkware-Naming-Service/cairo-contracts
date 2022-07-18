@@ -165,11 +165,11 @@ func _mint{
 end
 
 @storage_var
-func registry_adr_to_name (idx : felt) -> (name : felt):
+func registry_adr_to_name (adr : felt) -> (name : felt):
 end
 
 @storage_var
-func registry_name_to_adr (adr : felt) -> (idx : felt):
+func registry_name_to_adr (name : felt) -> (adr : felt):
 end
 
 @storage_var
