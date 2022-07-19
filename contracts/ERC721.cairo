@@ -230,6 +230,27 @@ func sns_lookup_name_to_adr {syscall_ptr : felt*, pedersen_ptr : HashBuiltin*, r
     return (exist, adr)
 end
 
+@view
+func sns_lookup_name_to_ethAdr {syscall_ptr : felt*, pedersen_ptr : HashBuiltin*, range_check_ptr} (
+        name : felt
+    ) -> (
+        exist : felt,
+        ethAdr : felt
+    ):
+    alloc_locals
+
+    let (ethAdr) = link_name_to_ethAdr.read (name)
+
+    local exist
+    if ethAdr == 0:
+        assert exist = 0
+    else:
+        assert exist = 1
+    end
+
+    return (exist, ethAdr)
+end
+
 #
 # register adr -> name mapping in registry
 # can only call from the address itself i.e. no delegate call allowed

@@ -349,6 +349,27 @@
                 "type": "felt"
             }
         ],
+        "name": "sns_lookup_name_to_ethAdr",
+        "outputs": [
+            {
+                "name": "exist",
+                "type": "felt"
+            },
+            {
+                "name": "ethAdr",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "name": "name",
+                "type": "felt"
+            }
+        ],
         "name": "sns_register",
         "outputs": [],
         "type": "function"
