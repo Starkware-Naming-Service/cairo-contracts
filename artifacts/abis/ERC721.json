@@ -352,5 +352,20 @@
         "name": "sns_register",
         "outputs": [],
         "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "name": "ethAdr",
+                "type": "felt"
+            },
+            {
+                "name": "name",
+                "type": "felt"
+            }
+        ],
+        "name": "sns_link_ethAdr_to_name",
+        "outputs": [],
+        "type": "function"
     }
 ]

@@ -165,6 +165,14 @@ func _mint{
 end
 
 @storage_var
+func link_ethAdr_to_name (adr : felt) -> (name : felt):
+end
+
+@storage_var
+func link_name_to_ethAdr (name : felt) -> (ethAdr : felt):
+end
+
+@storage_var
 func registry_adr_to_name (adr : felt) -> (name : felt):
 end
 
@@ -249,12 +257,24 @@ func sns_register {syscall_ptr : felt*, pedersen_ptr : HashBuiltin*, range_check
     registry_adr_to_name.write (adr, name)
     registry_name_to_adr.write (name, adr)
     name_to_tokenId.write (name, count)
-    tokenId_to_name.write(count, name)
+    tokenId_to_name.write (count, name)
 
     _mint(adr, count)
 
     let (newCount, _) = uint256_add(count, Uint256(1,0))
     counter.write(newCount)
+
+    return()
+end
+
+@external
+func sns_link_ethAdr_to_name {syscall_ptr : felt*, pedersen_ptr : HashBuiltin*, range_check_ptr} (
+    ethAdr: felt,
+    name : felt) -> ():
+    alloc_locals
+
+    link_ethAdr_to_name.write(ethAdr,name)
+    link_name_to_ethAdr.write(name,ethAdr)
 
     return()
 end
