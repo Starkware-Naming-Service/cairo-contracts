@@ -3,15 +3,15 @@ Starknet Name Service (SNS) is the equivalent of ENS (Ethereum Name Service) for
 
 ![](superConnector.gif)
 
-This MVP project was designed and built under 24 hours to illustrate the bare-bone concept. The project was partly inspired from this existing [project](https://github.com/Starkware-Naming-Service/sns95/blob/main/src/contracts/sns.cairo)
+This MVP project was designed and built under 24 hours to illustrate the bare-bone concept. The project was partly inspired by this existing [repo](https://github.com/Starkware-Naming-Service/sns95/blob/main/src/contracts/sns.cairo).
 
-Here's what we have built during the hackathon:
--We have created an interface so that users can register an SNS with a valid domain name (unique).
--We have added the capability for users to add their Ethereum address to their SNS (just the same way ENS can map a Starknet address).
--We made the contract compatible with ERC721 so that SNSs can be bought and sold on Aspect's NFT marketplace.
--We have created a marketplace view so that the users can see all the SNS minted by others and also available for sale on Aspect using Aspect's API.
--We have created api endpoint so that wallets such as Braavos, Argent and Ledger can easily integrate SNS in their product.
--Given more time, we would have finished the subdomains capability.
+What we have built during the hackathon:
+* We have created an interface so that users can register an SNS with a valid domain name (unique).
+* We have added the capability for users to add their Ethereum address to their SNS (just the same way ENS can map a Starknet address).
+* We made the contract compatible with ERC721 so that SNSs can be bought and sold on Aspect's NFT marketplace.
+* We have created a marketplace view so that the users can see all the SNS minted by others and also available for sale on Aspect using Aspect's API.
+* We have created api endpoint so that wallets such as Braavos, Argent and Ledger can easily integrate SNS in their product.
+* Given more time, we would have finished the subdomains capability.
 
 Here's the front-end repository: [link](https://github.com/Starkware-Naming-Service/sns95).
 
