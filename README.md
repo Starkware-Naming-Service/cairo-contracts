@@ -1,7 +1,7 @@
 # Starknet Name Service
 Starknet Name Service (SNS) is the equivalent of ENS (Ethereum Name Service) for Starknet. Starknet Name Service domains are secure domain names for the decentralized world. SNS domains provide a way for users to map human readable names to blockchain and non-blockchain resources, like Starknet account addresses. SNS domains can be bought and sold on secondary markets on NFT marketplaces like Aspect.
 
-![](superConnector.gif)
+![](front-end.png)
 
 This MVP project was designed and built under 24 hours to illustrate the bare-bone concept. The project was partly inspired by this existing [repo](https://github.com/Starkware-Naming-Service/sns95/blob/main/src/contracts/sns.cairo).
 
