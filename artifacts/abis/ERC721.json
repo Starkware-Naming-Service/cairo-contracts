@@ -303,6 +303,27 @@
     {
         "inputs": [
             {
+                "name": "tokenId",
+                "type": "Uint256"
+            }
+        ],
+        "name": "sns_lookup_tokenId_to_name",
+        "outputs": [
+            {
+                "name": "exist",
+                "type": "felt"
+            },
+            {
+                "name": "name",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
                 "name": "adr",
                 "type": "felt"
             }

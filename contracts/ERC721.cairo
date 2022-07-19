@@ -189,6 +189,27 @@ func tokenId_to_name (tokenId : Uint256) -> (name : felt):
 end
 
 @view
+func sns_lookup_tokenId_to_name {syscall_ptr : felt*, pedersen_ptr : HashBuiltin*, range_check_ptr} (
+        tokenId : Uint256
+    ) -> (
+        exist : felt,
+        name : felt
+    ):
+    alloc_locals
+
+    let (name) = tokenId_to_name.read (tokenId)
+
+    local exist
+    if name == 0:
+        assert exist = 0
+    else:
+        assert exist = 1
+    end
+
+    return (exist, name)
+end
+
+@view
 func sns_lookup_adr_to_name {syscall_ptr : felt*, pedersen_ptr : HashBuiltin*, range_check_ptr} (
         adr : felt
     ) -> (
