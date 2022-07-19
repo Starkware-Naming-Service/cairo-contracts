@@ -17,7 +17,7 @@ What we have built during the hackathon:
 
 Here's the front-end repository: [link](https://github.com/Starkware-Naming-Service/sns95).
 
-You can find the [full video demo here](https://www.youtube.com/watch?v=ulhKXHfgbMw).
+You can find the [full video demo here](https://www.loom.com/share/d18d5a8fe37445ed8cc861bd7c675078).
 
 ## Getting Started
 Prerequisites:
