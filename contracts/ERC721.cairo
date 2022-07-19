@@ -281,8 +281,6 @@ func sns_register {syscall_ptr : felt*, pedersen_ptr : HashBuiltin*, range_check
     name : felt) -> ():
     alloc_locals
 
-    # TODO: check if name is a string literal i.e. valid ascii encoding
-
     let (adr) = get_caller_address ()
 
     #
