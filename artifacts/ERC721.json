@@ -71320,12 +71320,12 @@
                                 "parent_location": [
                                     {
                                         "end_col": 38,
-                                        "end_line": 286,
+                                        "end_line": 284,
                                         "input_file": {
                                             "filename": "contracts/ERC721.cairo"
                                         },
                                         "start_col": 17,
-                                        "start_line": 286
+                                        "start_line": 284
                                     },
                                     "While trying to retrieve the implicit argument 'syscall_ptr' in:"
                                 ],
@@ -71348,12 +71348,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 38,
-                        "end_line": 286,
+                        "end_line": 284,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 17,
-                        "start_line": 286
+                        "start_line": 284
                     }
                 },
                 "2421": {
@@ -71373,7 +71373,7 @@
                         "parent_location": [
                             {
                                 "end_col": 38,
-                                "end_line": 286,
+                                "end_line": 284,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -71387,12 +71387,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 55,
-                                                "end_line": 293,
+                                                "end_line": 291,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 23,
-                                                "start_line": 293
+                                                "start_line": 291
                                             },
                                             "While trying to retrieve the implicit argument 'syscall_ptr' in:"
                                         ],
@@ -71402,7 +71402,7 @@
                                     "While expanding the reference 'syscall_ptr' in:"
                                 ],
                                 "start_col": 17,
-                                "start_line": 286
+                                "start_line": 284
                             },
                             "While trying to update the implicit return value 'syscall_ptr' in:"
                         ],
@@ -71434,12 +71434,12 @@
                                 "parent_location": [
                                     {
                                         "end_col": 55,
-                                        "end_line": 293,
+                                        "end_line": 291,
                                         "input_file": {
                                             "filename": "contracts/ERC721.cairo"
                                         },
                                         "start_col": 23,
-                                        "start_line": 293
+                                        "start_line": 291
                                     },
                                     "While trying to retrieve the implicit argument 'pedersen_ptr' in:"
                                 ],
@@ -71476,12 +71476,12 @@
                                 "parent_location": [
                                     {
                                         "end_col": 55,
-                                        "end_line": 293,
+                                        "end_line": 291,
                                         "input_file": {
                                             "filename": "contracts/ERC721.cairo"
                                         },
                                         "start_col": 23,
-                                        "start_line": 293
+                                        "start_line": 291
                                     },
                                     "While trying to retrieve the implicit argument 'range_check_ptr' in:"
                                 ],
@@ -71511,12 +71511,12 @@
                         "parent_location": [
                             {
                                 "end_col": 54,
-                                "end_line": 293,
+                                "end_line": 291,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 50,
-                                "start_line": 293
+                                "start_line": 291
                             },
                             "While expanding the reference 'name' in:"
                         ],
@@ -71534,12 +71534,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 55,
-                        "end_line": 293,
+                        "end_line": 291,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 23,
-                        "start_line": 293
+                        "start_line": 291
                     }
                 },
                 "2427": {
@@ -71552,12 +71552,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 25,
-                        "end_line": 294,
+                        "end_line": 292,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 294
+                        "start_line": 292
                     }
                 },
                 "2429": {
@@ -71577,7 +71577,7 @@
                         "parent_location": [
                             {
                                 "end_col": 55,
-                                "end_line": 293,
+                                "end_line": 291,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -71591,12 +71591,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 33,
-                                                "end_line": 296,
+                                                "end_line": 294,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 19,
-                                                "start_line": 296
+                                                "start_line": 294
                                             },
                                             "While trying to retrieve the implicit argument 'syscall_ptr' in:"
                                         ],
@@ -71606,7 +71606,7 @@
                                     "While expanding the reference 'syscall_ptr' in:"
                                 ],
                                 "start_col": 23,
-                                "start_line": 293
+                                "start_line": 291
                             },
                             "While trying to update the implicit return value 'syscall_ptr' in:"
                         ],
@@ -71631,7 +71631,7 @@
                         "parent_location": [
                             {
                                 "end_col": 55,
-                                "end_line": 293,
+                                "end_line": 291,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -71645,12 +71645,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 33,
-                                                "end_line": 296,
+                                                "end_line": 294,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 19,
-                                                "start_line": 296
+                                                "start_line": 294
                                             },
                                             "While trying to retrieve the implicit argument 'pedersen_ptr' in:"
                                         ],
@@ -71660,7 +71660,7 @@
                                     "While expanding the reference 'pedersen_ptr' in:"
                                 ],
                                 "start_col": 23,
-                                "start_line": 293
+                                "start_line": 291
                             },
                             "While trying to update the implicit return value 'pedersen_ptr' in:"
                         ],
@@ -71685,7 +71685,7 @@
                         "parent_location": [
                             {
                                 "end_col": 55,
-                                "end_line": 293,
+                                "end_line": 291,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -71699,12 +71699,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 33,
-                                                "end_line": 296,
+                                                "end_line": 294,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 19,
-                                                "start_line": 296
+                                                "start_line": 294
                                             },
                                             "While trying to retrieve the implicit argument 'range_check_ptr' in:"
                                         ],
@@ -71714,7 +71714,7 @@
                                     "While expanding the reference 'range_check_ptr' in:"
                                 ],
                                 "start_col": 23,
-                                "start_line": 293
+                                "start_line": 291
                             },
                             "While trying to update the implicit return value 'range_check_ptr' in:"
                         ],
@@ -71732,12 +71732,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 33,
-                        "end_line": 296,
+                        "end_line": 294,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 19,
-                        "start_line": 296
+                        "start_line": 294
                     }
                 },
                 "2434": {
@@ -71757,7 +71757,7 @@
                         "parent_location": [
                             {
                                 "end_col": 33,
-                                "end_line": 296,
+                                "end_line": 294,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -71771,12 +71771,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 43,
-                                                "end_line": 299,
+                                                "end_line": 297,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 5,
-                                                "start_line": 299
+                                                "start_line": 297
                                             },
                                             "While trying to retrieve the implicit argument 'syscall_ptr' in:"
                                         ],
@@ -71786,7 +71786,7 @@
                                     "While expanding the reference 'syscall_ptr' in:"
                                 ],
                                 "start_col": 19,
-                                "start_line": 296
+                                "start_line": 294
                             },
                             "While trying to update the implicit return value 'syscall_ptr' in:"
                         ],
@@ -71811,7 +71811,7 @@
                         "parent_location": [
                             {
                                 "end_col": 33,
-                                "end_line": 296,
+                                "end_line": 294,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -71825,12 +71825,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 43,
-                                                "end_line": 299,
+                                                "end_line": 297,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 5,
-                                                "start_line": 299
+                                                "start_line": 297
                                             },
                                             "While trying to retrieve the implicit argument 'pedersen_ptr' in:"
                                         ],
@@ -71840,7 +71840,7 @@
                                     "While expanding the reference 'pedersen_ptr' in:"
                                 ],
                                 "start_col": 19,
-                                "start_line": 296
+                                "start_line": 294
                             },
                             "While trying to update the implicit return value 'pedersen_ptr' in:"
                         ],
@@ -71865,7 +71865,7 @@
                         "parent_location": [
                             {
                                 "end_col": 33,
-                                "end_line": 296,
+                                "end_line": 294,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -71879,12 +71879,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 43,
-                                                "end_line": 299,
+                                                "end_line": 297,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 5,
-                                                "start_line": 299
+                                                "start_line": 297
                                             },
                                             "While trying to retrieve the implicit argument 'range_check_ptr' in:"
                                         ],
@@ -71894,7 +71894,7 @@
                                     "While expanding the reference 'range_check_ptr' in:"
                                 ],
                                 "start_col": 19,
-                                "start_line": 296
+                                "start_line": 294
                             },
                             "While trying to update the implicit return value 'range_check_ptr' in:"
                         ],
@@ -71912,24 +71912,24 @@
                     "hints": [],
                     "inst": {
                         "end_col": 13,
-                        "end_line": 286,
+                        "end_line": 284,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 36,
-                                "end_line": 299,
+                                "end_line": 297,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 33,
-                                "start_line": 299
+                                "start_line": 297
                             },
                             "While expanding the reference 'adr' in:"
                         ],
                         "start_col": 10,
-                        "start_line": 286
+                        "start_line": 284
                     }
                 },
                 "2438": {
@@ -71949,12 +71949,12 @@
                         "parent_location": [
                             {
                                 "end_col": 42,
-                                "end_line": 299,
+                                "end_line": 297,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 38,
-                                "start_line": 299
+                                "start_line": 297
                             },
                             "While expanding the reference 'name' in:"
                         ],
@@ -71972,12 +71972,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 43,
-                        "end_line": 299,
+                        "end_line": 297,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 299
+                        "start_line": 297
                     }
                 },
                 "2441": {
@@ -71997,12 +71997,12 @@
                         "parent_location": [
                             {
                                 "end_col": 37,
-                                "end_line": 300,
+                                "end_line": 298,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 33,
-                                "start_line": 300
+                                "start_line": 298
                             },
                             "While expanding the reference 'name' in:"
                         ],
@@ -72020,24 +72020,24 @@
                     "hints": [],
                     "inst": {
                         "end_col": 13,
-                        "end_line": 286,
+                        "end_line": 284,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 42,
-                                "end_line": 300,
+                                "end_line": 298,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 39,
-                                "start_line": 300
+                                "start_line": 298
                             },
                             "While expanding the reference 'adr' in:"
                         ],
                         "start_col": 10,
-                        "start_line": 286
+                        "start_line": 284
                     }
                 },
                 "2443": {
@@ -72050,12 +72050,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 43,
-                        "end_line": 300,
+                        "end_line": 298,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 300
+                        "start_line": 298
                     }
                 },
                 "2445": {
@@ -72075,12 +72075,12 @@
                         "parent_location": [
                             {
                                 "end_col": 32,
-                                "end_line": 301,
+                                "end_line": 299,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 28,
-                                "start_line": 301
+                                "start_line": 299
                             },
                             "While expanding the reference 'name' in:"
                         ],
@@ -72098,24 +72098,24 @@
                     "hints": [],
                     "inst": {
                         "end_col": 15,
-                        "end_line": 296,
+                        "end_line": 294,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 39,
-                                "end_line": 301,
+                                "end_line": 299,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 34,
-                                "start_line": 301
+                                "start_line": 299
                             },
                             "While expanding the reference 'count' in:"
                         ],
                         "start_col": 10,
-                        "start_line": 296
+                        "start_line": 294
                     }
                 },
                 "2447": {
@@ -72128,24 +72128,24 @@
                     "hints": [],
                     "inst": {
                         "end_col": 15,
-                        "end_line": 296,
+                        "end_line": 294,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 39,
-                                "end_line": 301,
+                                "end_line": 299,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 34,
-                                "start_line": 301
+                                "start_line": 299
                             },
                             "While expanding the reference 'count' in:"
                         ],
                         "start_col": 10,
-                        "start_line": 296
+                        "start_line": 294
                     }
                 },
                 "2448": {
@@ -72158,12 +72158,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 40,
-                        "end_line": 301,
+                        "end_line": 299,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 301
+                        "start_line": 299
                     }
                 },
                 "2450": {
@@ -72176,24 +72176,24 @@
                     "hints": [],
                     "inst": {
                         "end_col": 15,
-                        "end_line": 296,
+                        "end_line": 294,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 33,
-                                "end_line": 302,
+                                "end_line": 300,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 28,
-                                "start_line": 302
+                                "start_line": 300
                             },
                             "While expanding the reference 'count' in:"
                         ],
                         "start_col": 10,
-                        "start_line": 296
+                        "start_line": 294
                     }
                 },
                 "2451": {
@@ -72206,24 +72206,24 @@
                     "hints": [],
                     "inst": {
                         "end_col": 15,
-                        "end_line": 296,
+                        "end_line": 294,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 33,
-                                "end_line": 302,
+                                "end_line": 300,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 28,
-                                "start_line": 302
+                                "start_line": 300
                             },
                             "While expanding the reference 'count' in:"
                         ],
                         "start_col": 10,
-                        "start_line": 296
+                        "start_line": 294
                     }
                 },
                 "2452": {
@@ -72243,12 +72243,12 @@
                         "parent_location": [
                             {
                                 "end_col": 39,
-                                "end_line": 302,
+                                "end_line": 300,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 35,
-                                "start_line": 302
+                                "start_line": 300
                             },
                             "While expanding the reference 'name' in:"
                         ],
@@ -72266,12 +72266,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 40,
-                        "end_line": 302,
+                        "end_line": 300,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 302
+                        "start_line": 300
                     }
                 },
                 "2455": {
@@ -72291,7 +72291,7 @@
                         "parent_location": [
                             {
                                 "end_col": 40,
-                                "end_line": 302,
+                                "end_line": 300,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -72305,12 +72305,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 304,
+                                                "end_line": 302,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 5,
-                                                "start_line": 304
+                                                "start_line": 302
                                             },
                                             "While trying to retrieve the implicit argument 'pedersen_ptr' in:"
                                         ],
@@ -72320,7 +72320,7 @@
                                     "While expanding the reference 'pedersen_ptr' in:"
                                 ],
                                 "start_col": 5,
-                                "start_line": 302
+                                "start_line": 300
                             },
                             "While trying to update the implicit return value 'pedersen_ptr' in:"
                         ],
@@ -72345,7 +72345,7 @@
                         "parent_location": [
                             {
                                 "end_col": 40,
-                                "end_line": 302,
+                                "end_line": 300,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -72359,12 +72359,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 304,
+                                                "end_line": 302,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 5,
-                                                "start_line": 304
+                                                "start_line": 302
                                             },
                                             "While trying to retrieve the implicit argument 'syscall_ptr' in:"
                                         ],
@@ -72374,7 +72374,7 @@
                                     "While expanding the reference 'syscall_ptr' in:"
                                 ],
                                 "start_col": 5,
-                                "start_line": 302
+                                "start_line": 300
                             },
                             "While trying to update the implicit return value 'syscall_ptr' in:"
                         ],
@@ -72399,7 +72399,7 @@
                         "parent_location": [
                             {
                                 "end_col": 40,
-                                "end_line": 302,
+                                "end_line": 300,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -72413,12 +72413,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 304,
+                                                "end_line": 302,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 5,
-                                                "start_line": 304
+                                                "start_line": 302
                                             },
                                             "While trying to retrieve the implicit argument 'range_check_ptr' in:"
                                         ],
@@ -72428,7 +72428,7 @@
                                     "While expanding the reference 'range_check_ptr' in:"
                                 ],
                                 "start_col": 5,
-                                "start_line": 302
+                                "start_line": 300
                             },
                             "While trying to update the implicit return value 'range_check_ptr' in:"
                         ],
@@ -72446,24 +72446,24 @@
                     "hints": [],
                     "inst": {
                         "end_col": 13,
-                        "end_line": 286,
+                        "end_line": 284,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 14,
-                                "end_line": 304,
+                                "end_line": 302,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 11,
-                                "start_line": 304
+                                "start_line": 302
                             },
                             "While expanding the reference 'adr' in:"
                         ],
                         "start_col": 10,
-                        "start_line": 286
+                        "start_line": 284
                     }
                 },
                 "2459": {
@@ -72476,24 +72476,24 @@
                     "hints": [],
                     "inst": {
                         "end_col": 15,
-                        "end_line": 296,
+                        "end_line": 294,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 21,
-                                "end_line": 304,
+                                "end_line": 302,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 16,
-                                "start_line": 304
+                                "start_line": 302
                             },
                             "While expanding the reference 'count' in:"
                         ],
                         "start_col": 10,
-                        "start_line": 296
+                        "start_line": 294
                     }
                 },
                 "2460": {
@@ -72506,24 +72506,24 @@
                     "hints": [],
                     "inst": {
                         "end_col": 15,
-                        "end_line": 296,
+                        "end_line": 294,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 21,
-                                "end_line": 304,
+                                "end_line": 302,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 16,
-                                "start_line": 304
+                                "start_line": 302
                             },
                             "While expanding the reference 'count' in:"
                         ],
                         "start_col": 10,
-                        "start_line": 296
+                        "start_line": 294
                     }
                 },
                 "2461": {
@@ -72536,12 +72536,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 22,
-                        "end_line": 304,
+                        "end_line": 302,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 304
+                        "start_line": 302
                     }
                 },
                 "2463": {
@@ -72554,24 +72554,24 @@
                     "hints": [],
                     "inst": {
                         "end_col": 15,
-                        "end_line": 296,
+                        "end_line": 294,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 42,
-                                "end_line": 306,
+                                "end_line": 304,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 37,
-                                "start_line": 306
+                                "start_line": 304
                             },
                             "While expanding the reference 'count' in:"
                         ],
                         "start_col": 10,
-                        "start_line": 296
+                        "start_line": 294
                     }
                 },
                 "2464": {
@@ -72584,24 +72584,24 @@
                     "hints": [],
                     "inst": {
                         "end_col": 15,
-                        "end_line": 296,
+                        "end_line": 294,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 42,
-                                "end_line": 306,
+                                "end_line": 304,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 37,
-                                "start_line": 306
+                                "start_line": 304
                             },
                             "While expanding the reference 'count' in:"
                         ],
                         "start_col": 10,
-                        "start_line": 296
+                        "start_line": 294
                     }
                 },
                 "2465": {
@@ -72614,12 +72614,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 53,
-                        "end_line": 306,
+                        "end_line": 304,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 52,
-                        "start_line": 306
+                        "start_line": 304
                     }
                 },
                 "2467": {
@@ -72632,12 +72632,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 55,
-                        "end_line": 306,
+                        "end_line": 304,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 54,
-                        "start_line": 306
+                        "start_line": 304
                     }
                 },
                 "2469": {
@@ -72650,12 +72650,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 57,
-                        "end_line": 306,
+                        "end_line": 304,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 25,
-                        "start_line": 306
+                        "start_line": 304
                     }
                 },
                 "2471": {
@@ -72675,7 +72675,7 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 304,
+                                "end_line": 302,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -72689,12 +72689,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 28,
-                                                "end_line": 307,
+                                                "end_line": 305,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 5,
-                                                "start_line": 307
+                                                "start_line": 305
                                             },
                                             "While trying to retrieve the implicit argument 'syscall_ptr' in:"
                                         ],
@@ -72704,7 +72704,7 @@
                                     "While expanding the reference 'syscall_ptr' in:"
                                 ],
                                 "start_col": 5,
-                                "start_line": 304
+                                "start_line": 302
                             },
                             "While trying to update the implicit return value 'syscall_ptr' in:"
                         ],
@@ -72729,7 +72729,7 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 304,
+                                "end_line": 302,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -72743,12 +72743,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 28,
-                                                "end_line": 307,
+                                                "end_line": 305,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 5,
-                                                "start_line": 307
+                                                "start_line": 305
                                             },
                                             "While trying to retrieve the implicit argument 'pedersen_ptr' in:"
                                         ],
@@ -72758,7 +72758,7 @@
                                     "While expanding the reference 'pedersen_ptr' in:"
                                 ],
                                 "start_col": 5,
-                                "start_line": 304
+                                "start_line": 302
                             },
                             "While trying to update the implicit return value 'pedersen_ptr' in:"
                         ],
@@ -72783,7 +72783,7 @@
                         "parent_location": [
                             {
                                 "end_col": 57,
-                                "end_line": 306,
+                                "end_line": 304,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -72797,12 +72797,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 28,
-                                                "end_line": 307,
+                                                "end_line": 305,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 5,
-                                                "start_line": 307
+                                                "start_line": 305
                                             },
                                             "While trying to retrieve the implicit argument 'range_check_ptr' in:"
                                         ],
@@ -72812,7 +72812,7 @@
                                     "While expanding the reference 'range_check_ptr' in:"
                                 ],
                                 "start_col": 25,
-                                "start_line": 306
+                                "start_line": 304
                             },
                             "While trying to update the implicit return value 'range_check_ptr' in:"
                         ],
@@ -72830,24 +72830,24 @@
                     "hints": [],
                     "inst": {
                         "end_col": 18,
-                        "end_line": 306,
+                        "end_line": 304,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 27,
-                                "end_line": 307,
+                                "end_line": 305,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 19,
-                                "start_line": 307
+                                "start_line": 305
                             },
                             "While expanding the reference 'newCount' in:"
                         ],
                         "start_col": 10,
-                        "start_line": 306
+                        "start_line": 304
                     }
                 },
                 "2475": {
@@ -72860,24 +72860,24 @@
                     "hints": [],
                     "inst": {
                         "end_col": 18,
-                        "end_line": 306,
+                        "end_line": 304,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 27,
-                                "end_line": 307,
+                                "end_line": 305,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 19,
-                                "start_line": 307
+                                "start_line": 305
                             },
                             "While expanding the reference 'newCount' in:"
                         ],
                         "start_col": 10,
-                        "start_line": 306
+                        "start_line": 304
                     }
                 },
                 "2476": {
@@ -72890,12 +72890,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 28,
-                        "end_line": 307,
+                        "end_line": 305,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 307
+                        "start_line": 305
                     }
                 },
                 "2478": {
@@ -72908,12 +72908,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 13,
-                        "end_line": 309,
+                        "end_line": 307,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 309
+                        "start_line": 307
                     }
                 },
                 "2479": {
@@ -73637,12 +73637,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 17,
-                        "end_line": 316,
+                        "end_line": 314,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 316
+                        "start_line": 314
                     }
                 },
                 "2499": {
@@ -73655,7 +73655,7 @@
                     "hints": [],
                     "inst": {
                         "end_col": 50,
-                        "end_line": 313,
+                        "end_line": 311,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
@@ -73669,12 +73669,12 @@
                                 "parent_location": [
                                     {
                                         "end_col": 44,
-                                        "end_line": 318,
+                                        "end_line": 316,
                                         "input_file": {
                                             "filename": "contracts/ERC721.cairo"
                                         },
                                         "start_col": 5,
-                                        "start_line": 318
+                                        "start_line": 316
                                     },
                                     "While trying to retrieve the implicit argument 'syscall_ptr' in:"
                                 ],
@@ -73684,7 +73684,7 @@
                             "While expanding the reference 'syscall_ptr' in:"
                         ],
                         "start_col": 31,
-                        "start_line": 313
+                        "start_line": 311
                     }
                 },
                 "2500": {
@@ -73697,7 +73697,7 @@
                     "hints": [],
                     "inst": {
                         "end_col": 79,
-                        "end_line": 313,
+                        "end_line": 311,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
@@ -73711,12 +73711,12 @@
                                 "parent_location": [
                                     {
                                         "end_col": 44,
-                                        "end_line": 318,
+                                        "end_line": 316,
                                         "input_file": {
                                             "filename": "contracts/ERC721.cairo"
                                         },
                                         "start_col": 5,
-                                        "start_line": 318
+                                        "start_line": 316
                                     },
                                     "While trying to retrieve the implicit argument 'pedersen_ptr' in:"
                                 ],
@@ -73726,7 +73726,7 @@
                             "While expanding the reference 'pedersen_ptr' in:"
                         ],
                         "start_col": 52,
-                        "start_line": 313
+                        "start_line": 311
                     }
                 },
                 "2501": {
@@ -73739,7 +73739,7 @@
                     "hints": [],
                     "inst": {
                         "end_col": 96,
-                        "end_line": 313,
+                        "end_line": 311,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
@@ -73753,12 +73753,12 @@
                                 "parent_location": [
                                     {
                                         "end_col": 44,
-                                        "end_line": 318,
+                                        "end_line": 316,
                                         "input_file": {
                                             "filename": "contracts/ERC721.cairo"
                                         },
                                         "start_col": 5,
-                                        "start_line": 318
+                                        "start_line": 316
                                     },
                                     "While trying to retrieve the implicit argument 'range_check_ptr' in:"
                                 ],
@@ -73768,7 +73768,7 @@
                             "While expanding the reference 'range_check_ptr' in:"
                         ],
                         "start_col": 81,
-                        "start_line": 313
+                        "start_line": 311
                     }
                 },
                 "2502": {
@@ -73781,24 +73781,24 @@
                     "hints": [],
                     "inst": {
                         "end_col": 17,
-                        "end_line": 314,
+                        "end_line": 312,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 38,
-                                "end_line": 318,
+                                "end_line": 316,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 32,
-                                "start_line": 318
+                                "start_line": 316
                             },
                             "While expanding the reference 'ethAdr' in:"
                         ],
                         "start_col": 5,
-                        "start_line": 314
+                        "start_line": 312
                     }
                 },
                 "2503": {
@@ -73811,24 +73811,24 @@
                     "hints": [],
                     "inst": {
                         "end_col": 16,
-                        "end_line": 315,
+                        "end_line": 313,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 43,
-                                "end_line": 318,
+                                "end_line": 316,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 39,
-                                "start_line": 318
+                                "start_line": 316
                             },
                             "While expanding the reference 'name' in:"
                         ],
                         "start_col": 5,
-                        "start_line": 315
+                        "start_line": 313
                     }
                 },
                 "2504": {
@@ -73841,12 +73841,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 44,
-                        "end_line": 318,
+                        "end_line": 316,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 318
+                        "start_line": 316
                     }
                 },
                 "2506": {
@@ -73859,24 +73859,24 @@
                     "hints": [],
                     "inst": {
                         "end_col": 16,
-                        "end_line": 315,
+                        "end_line": 313,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 36,
-                                "end_line": 319,
+                                "end_line": 317,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 32,
-                                "start_line": 319
+                                "start_line": 317
                             },
                             "While expanding the reference 'name' in:"
                         ],
                         "start_col": 5,
-                        "start_line": 315
+                        "start_line": 313
                     }
                 },
                 "2507": {
@@ -73889,24 +73889,24 @@
                     "hints": [],
                     "inst": {
                         "end_col": 17,
-                        "end_line": 314,
+                        "end_line": 312,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 43,
-                                "end_line": 319,
+                                "end_line": 317,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 37,
-                                "start_line": 319
+                                "start_line": 317
                             },
                             "While expanding the reference 'ethAdr' in:"
                         ],
                         "start_col": 5,
-                        "start_line": 314
+                        "start_line": 312
                     }
                 },
                 "2508": {
@@ -73919,12 +73919,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 44,
-                        "end_line": 319,
+                        "end_line": 317,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 319
+                        "start_line": 317
                     }
                 },
                 "2510": {
@@ -73937,12 +73937,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 13,
-                        "end_line": 321,
+                        "end_line": 319,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 321
+                        "start_line": 319
                     }
                 },
                 "2511": {
@@ -73963,7 +73963,7 @@
                         "parent_location": [
                             {
                                 "end_col": 16,
-                                "end_line": 315,
+                                "end_line": 313,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -73977,7 +73977,7 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 29,
-                                                "end_line": 313,
+                                                "end_line": 311,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
@@ -73991,12 +73991,12 @@
                                                         "parent_location": [
                                                             {
                                                                 "end_col": 29,
-                                                                "end_line": 313,
+                                                                "end_line": 311,
                                                                 "input_file": {
                                                                     "filename": "contracts/ERC721.cairo"
                                                                 },
                                                                 "start_col": 6,
-                                                                "start_line": 313
+                                                                "start_line": 311
                                                             },
                                                             "While handling calldata of"
                                                         ],
@@ -74006,7 +74006,7 @@
                                                     "While expanding the reference '__calldata_actual_size' in:"
                                                 ],
                                                 "start_col": 6,
-                                                "start_line": 313
+                                                "start_line": 311
                                             },
                                             "While handling calldata of"
                                         ],
@@ -74016,7 +74016,7 @@
                                     "While expanding the reference '__calldata_ptr' in:"
                                 ],
                                 "start_col": 5,
-                                "start_line": 315
+                                "start_line": 313
                             },
                             "While handling calldata argument 'name'"
                         ],
@@ -74042,12 +74042,12 @@
                         "parent_location": [
                             {
                                 "end_col": 29,
-                                "end_line": 313,
+                                "end_line": 311,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 313
+                                "start_line": 311
                             },
                             "While handling calldata of"
                         ],
@@ -74073,7 +74073,7 @@
                         "parent_location": [
                             {
                                 "end_col": 50,
-                                "end_line": 313,
+                                "end_line": 311,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -74087,12 +74087,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 29,
-                                                "end_line": 313,
+                                                "end_line": 311,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 313
+                                                "start_line": 311
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -74102,7 +74102,7 @@
                                     "While expanding the reference 'syscall_ptr' in:"
                                 ],
                                 "start_col": 31,
-                                "start_line": 313
+                                "start_line": 311
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -74128,7 +74128,7 @@
                         "parent_location": [
                             {
                                 "end_col": 79,
-                                "end_line": 313,
+                                "end_line": 311,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -74142,12 +74142,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 29,
-                                                "end_line": 313,
+                                                "end_line": 311,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 313
+                                                "start_line": 311
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -74157,7 +74157,7 @@
                                     "While expanding the reference 'pedersen_ptr' in:"
                                 ],
                                 "start_col": 52,
-                                "start_line": 313
+                                "start_line": 311
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -74183,7 +74183,7 @@
                         "parent_location": [
                             {
                                 "end_col": 96,
-                                "end_line": 313,
+                                "end_line": 311,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -74197,12 +74197,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 29,
-                                                "end_line": 313,
+                                                "end_line": 311,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 313
+                                                "start_line": 311
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -74212,7 +74212,7 @@
                                     "While expanding the reference 'range_check_ptr' in:"
                                 ],
                                 "start_col": 81,
-                                "start_line": 313
+                                "start_line": 311
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -74238,7 +74238,7 @@
                         "parent_location": [
                             {
                                 "end_col": 17,
-                                "end_line": 314,
+                                "end_line": 312,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -74252,12 +74252,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 29,
-                                                "end_line": 313,
+                                                "end_line": 311,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 313
+                                                "start_line": 311
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -74267,7 +74267,7 @@
                                     "While expanding the reference '__calldata_arg_ethAdr' in:"
                                 ],
                                 "start_col": 5,
-                                "start_line": 314
+                                "start_line": 312
                             },
                             "While handling calldata argument 'ethAdr'"
                         ],
@@ -74293,7 +74293,7 @@
                         "parent_location": [
                             {
                                 "end_col": 16,
-                                "end_line": 315,
+                                "end_line": 313,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -74307,12 +74307,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 29,
-                                                "end_line": 313,
+                                                "end_line": 311,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 313
+                                                "start_line": 311
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -74322,7 +74322,7 @@
                                     "While expanding the reference '__calldata_arg_name' in:"
                                 ],
                                 "start_col": 5,
-                                "start_line": 315
+                                "start_line": 313
                             },
                             "While handling calldata argument 'name'"
                         ],
@@ -74341,12 +74341,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 29,
-                        "end_line": 313,
+                        "end_line": 311,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
                         },
                         "start_col": 6,
-                        "start_line": 313
+                        "start_line": 311
                     }
                 },
                 "2521": {
@@ -74368,12 +74368,12 @@
                                 "parent_location": [
                                     {
                                         "end_col": 29,
-                                        "end_line": 313,
+                                        "end_line": 311,
                                         "input_file": {
                                             "filename": "contracts/ERC721.cairo"
                                         },
                                         "start_col": 6,
-                                        "start_line": 313
+                                        "start_line": 311
                                     },
                                     "While constructing the external wrapper for:"
                                 ],
@@ -74392,12 +74392,12 @@
                         "parent_location": [
                             {
                                 "end_col": 29,
-                                "end_line": 313,
+                                "end_line": 311,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 313
+                                "start_line": 311
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -74423,7 +74423,7 @@
                         "parent_location": [
                             {
                                 "end_col": 29,
-                                "end_line": 313,
+                                "end_line": 311,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -74437,12 +74437,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 29,
-                                                "end_line": 313,
+                                                "end_line": 311,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 313
+                                                "start_line": 311
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -74452,7 +74452,7 @@
                                     "While expanding the reference 'syscall_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 313
+                                "start_line": 311
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -74478,7 +74478,7 @@
                         "parent_location": [
                             {
                                 "end_col": 29,
-                                "end_line": 313,
+                                "end_line": 311,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -74492,12 +74492,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 29,
-                                                "end_line": 313,
+                                                "end_line": 311,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 313
+                                                "start_line": 311
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -74507,7 +74507,7 @@
                                     "While expanding the reference 'pedersen_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 313
+                                "start_line": 311
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -74533,7 +74533,7 @@
                         "parent_location": [
                             {
                                 "end_col": 29,
-                                "end_line": 313,
+                                "end_line": 311,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -74547,12 +74547,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 29,
-                                                "end_line": 313,
+                                                "end_line": 311,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 313
+                                                "start_line": 311
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -74562,7 +74562,7 @@
                                     "While expanding the reference 'range_check_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 313
+                                "start_line": 311
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -74588,7 +74588,7 @@
                         "parent_location": [
                             {
                                 "end_col": 29,
-                                "end_line": 313,
+                                "end_line": 311,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -74602,12 +74602,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 29,
-                                                "end_line": 313,
+                                                "end_line": 311,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 313
+                                                "start_line": 311
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -74617,7 +74617,7 @@
                                     "While expanding the reference 'retdata_size' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 313
+                                "start_line": 311
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -74643,7 +74643,7 @@
                         "parent_location": [
                             {
                                 "end_col": 29,
-                                "end_line": 313,
+                                "end_line": 311,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
@@ -74657,12 +74657,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 29,
-                                                "end_line": 313,
+                                                "end_line": 311,
                                                 "input_file": {
                                                     "filename": "contracts/ERC721.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 313
+                                                "start_line": 311
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -74672,7 +74672,7 @@
                                     "While expanding the reference 'retdata' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 313
+                                "start_line": 311
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -74698,12 +74698,12 @@
                         "parent_location": [
                             {
                                 "end_col": 29,
-                                "end_line": 313,
+                                "end_line": 311,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 313
+                                "start_line": 311
                             },
                             "While constructing the external wrapper for:"
                         ],
