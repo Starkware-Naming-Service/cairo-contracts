@@ -6,12 +6,12 @@ Starknet Name Service (SNS) is the equivalent of ENS (Ethereum Name Service) for
 This MVP project was designed and built under 24 hours to illustrate the bare-bone concept. The project was partly inspired by this existing [repo](https://github.com/Starkware-Naming-Service/sns95/blob/main/src/contracts/sns.cairo).
 
 What we have built during the hackathon:
-* We have created an interface so that users can register an SNS with a valid domain name (unique).
-* We have added the capability for users to add their Ethereum address to their SNS (just the same way ENS can map a Starknet address).
+* We have created an front-end UI so that users can eeasily register an SNS with a unique domain name.
+* We have added the capability for users to attach their Ethereum address to their SNS (just the same way ENS can map a Starknet address) for convenient cross-chain transfers/payments.
 * We made the contract compatible with ERC721 so that SNSs can be bought and sold on Aspect's NFT marketplace.
 * We have created a marketplace view so that the users can see all the SNS minted by others and also available for sale on Aspect using Aspect's API.
 * We have created api endpoint so that wallets such as Braavos, Argent and Ledger can easily integrate SNS in their product.
-* Given more time, we would have finished the subdomains capability.
+* Given more time, we would have completed the capability to create subdomains (ex: shop.bezos.stark).
 
 Here's the front-end repository: [link](https://github.com/Starkware-Naming-Service/sns95).
 
