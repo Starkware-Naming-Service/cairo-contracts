@@ -71469,7 +71469,7 @@
                                 },
                                 "parent_location": [
                                     {
-                                        "end_col": 43,
+                                        "end_col": 44,
                                         "end_line": 297,
                                         "input_file": {
                                             "filename": "contracts/ERC721.cairo"
@@ -71511,7 +71511,7 @@
                                 },
                                 "parent_location": [
                                     {
-                                        "end_col": 43,
+                                        "end_col": 44,
                                         "end_line": 297,
                                         "input_file": {
                                             "filename": "contracts/ERC721.cairo"
@@ -71553,7 +71553,7 @@
                                 },
                                 "parent_location": [
                                     {
-                                        "end_col": 43,
+                                        "end_col": 44,
                                         "end_line": 297,
                                         "input_file": {
                                             "filename": "contracts/ERC721.cairo"
@@ -71588,12 +71588,12 @@
                         },
                         "parent_location": [
                             {
-                                "end_col": 37,
+                                "end_col": 38,
                                 "end_line": 297,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
-                                "start_col": 31,
+                                "start_col": 32,
                                 "start_line": 297
                             },
                             "While expanding the reference 'ethAdr' in:"
@@ -71618,12 +71618,12 @@
                         },
                         "parent_location": [
                             {
-                                "end_col": 42,
+                                "end_col": 43,
                                 "end_line": 297,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
-                                "start_col": 38,
+                                "start_col": 39,
                                 "start_line": 297
                             },
                             "While expanding the reference 'name' in:"
@@ -71641,7 +71641,7 @@
                     "flow_tracking_data": null,
                     "hints": [],
                     "inst": {
-                        "end_col": 43,
+                        "end_col": 44,
                         "end_line": 297,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"
@@ -71666,12 +71666,12 @@
                         },
                         "parent_location": [
                             {
-                                "end_col": 35,
+                                "end_col": 36,
                                 "end_line": 298,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
-                                "start_col": 31,
+                                "start_col": 32,
                                 "start_line": 298
                             },
                             "While expanding the reference 'name' in:"
@@ -71696,12 +71696,12 @@
                         },
                         "parent_location": [
                             {
-                                "end_col": 42,
+                                "end_col": 43,
                                 "end_line": 298,
                                 "input_file": {
                                     "filename": "contracts/ERC721.cairo"
                                 },
-                                "start_col": 36,
+                                "start_col": 37,
                                 "start_line": 298
                             },
                             "While expanding the reference 'ethAdr' in:"
@@ -71719,7 +71719,7 @@
                     "flow_tracking_data": null,
                     "hints": [],
                     "inst": {
-                        "end_col": 43,
+                        "end_col": 44,
                         "end_line": 298,
                         "input_file": {
                             "filename": "contracts/ERC721.cairo"

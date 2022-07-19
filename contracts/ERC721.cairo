@@ -294,8 +294,8 @@ func sns_link_ethAdr_to_name {syscall_ptr : felt*, pedersen_ptr : HashBuiltin*, 
     name : felt) -> ():
     alloc_locals
 
-    link_ethAdr_to_name.write(ethAdr,name)
-    link_name_to_ethAdr.write(name,ethAdr)
+    link_ethAdr_to_name.write (ethAdr,name)
+    link_name_to_ethAdr.write (name,ethAdr)
 
     return()
 end
